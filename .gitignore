@@ -26,8 +26,6 @@ vector_db/
 Thumbs.db
 desktop.ini
 
-# Data (PDFs are large; keep them local)
-data/*.pdf
 
 # Logs
 *.log
