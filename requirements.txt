@@ -1,0 +1,20 @@
+# Policy Q&A Bot — Dependencies
+# Install: pip install -r requirements.txt
+
+# PDF parsing
+PyMuPDF>=1.23.0
+
+# Embeddings (Sentence Transformers / HuggingFace)
+sentence-transformers>=2.2.0
+
+# Vector store
+faiss-cpu>=1.7.4
+
+# Web framework
+flask>=3.0.0
+
+# Scientific computing (required by sentence-transformers)
+numpy>=1.24.0
+
+# Testing
+pytest>=7.0.0
