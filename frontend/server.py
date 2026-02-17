@@ -1,6 +1,6 @@
 """
 Flask web server for the Policy Q&A Bot.
-Provides API endpoints and serves the ChatGPT-style web interface.
+Provides API endpoints and serves the web interface.
 """
 
 from flask import Flask, render_template, request, jsonify

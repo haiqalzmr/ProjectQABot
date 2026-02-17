@@ -1,5 +1,5 @@
 /* ══════════════════════════════════════════════════════════════════════════
-   Policy Q&A Bot — Apple / Copilot Glassmorphism Design
+   Policy Q&A Bot — Glassmorphism Design System
    Light mode default. Collapsible sidebar with soft rounded corners.
    ══════════════════════════════════════════════════════════════════════════ */
 
@@ -131,7 +131,7 @@ body {
 
 
 /* ══════════════════════════════════════════════════════════════════════════
-   SIDEBAR — Copilot-style with soft right-side radius
+   SIDEBAR — with soft right-side radius
    ══════════════════════════════════════════════════════════════════════════ */
 .sidebar {
     width: var(--sidebar-width);
@@ -489,7 +489,7 @@ body {
 
 
 /* ══════════════════════════════════════════════════════════════════════════
-   WELCOME SCREEN — Copilot-style centered
+   WELCOME SCREEN — centered layout
    ══════════════════════════════════════════════════════════════════════════ */
 .welcome-screen {
     display: flex;
@@ -533,7 +533,7 @@ body {
     margin-bottom: 28px;
 }
 
-/* ── Welcome Input (Copilot-style inline) ─────────────────────────────── */
+/* ── Welcome Input (inline search bar) ────────────────────────────────── */
 .welcome-input-wrapper {
     display: flex;
     align-items: flex-end;
@@ -570,7 +570,7 @@ body {
     color: var(--text-muted);
 }
 
-/* ── Suggestion Cards (Copilot-style) ──────────────────────────────────── */
+/* ── Suggestion Cards ──────────────────────────────────────────────────── */
 .suggestion-grid {
     display: grid;
     grid-template-columns: 1fr 1fr;

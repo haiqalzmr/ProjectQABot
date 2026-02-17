@@ -1,6 +1,6 @@
 /**
  * Policy Q&A Bot — Chat Interface
- * Copilot-style layout: collapsible sidebar, centered welcome, user bubbles,
+ * Chat interface: collapsible sidebar, centered welcome, user bubbles,
  * localStorage chat history + theme persistence.
  */
 
